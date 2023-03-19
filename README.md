@@ -1,4 +1,5 @@
 # info
+- made it in 15-20 mnts
 - a internal base for you to use
 - my discord server -> https://discord.gg/8S5eBJ4cBN
 
