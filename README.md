@@ -1,6 +1,6 @@
 # info
 - a internal base for you to use
-- its in my discord server -> https://discord.gg/8S5eBJ4cBN
+- my discord server -> https://discord.gg/8S5eBJ4cBN
 
 ## mmmm
 - used minhook for hooking end_scene
