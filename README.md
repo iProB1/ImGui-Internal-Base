@@ -7,6 +7,7 @@
 - used colored_cout for coloring
 
 ## credits
+- for imgui [Ocornut](https://github.com/ocornut/imgui)
 - for minhook [TsudaKageyu](https://github.com/TsudaKageyu/minhook)
 - for colored_cout [yurablok](https://github.com/yurablok/colored-cout)
 
