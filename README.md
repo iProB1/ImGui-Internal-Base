@@ -10,4 +10,4 @@
 - for minhook [TsudaKageyu](https://github.com/TsudaKageyu/minhook)
 - for colored_cout [yurablok](https://github.com/yurablok/colored-cout)
 
-- ** thanks to these persons **
+- **thanks to these persons**
