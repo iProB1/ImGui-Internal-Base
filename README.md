@@ -15,4 +15,3 @@
 - **thanks to these persons**
 
 ## image
-![image](https://user-images.githubusercontent.com/50064486/226167696-9d99d92f-6f02-4e4e-8d4d-95e114c7d7cd.png)
